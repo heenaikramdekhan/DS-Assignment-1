@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\Awais Mohammad\source\repos\DS Assignment 1\DS Assignment 1\19I-1989.h(297,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Awais Mohammad\source\repos\DS Assignment 1\DS Assignment 1\19I-1989.h(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Awais Mohammad\source\repos\DS Assignment 1\DS Assignment 1\19I-1989.h(667,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Awais Mohammad\source\repos\DS Assignment 1\DS Assignment 1\19I-1989.h(687,12): warning C4018: '<': signed/unsigned mismatch
+  DS Assignment 1.vcxproj -> C:\Users\Awais Mohammad\source\repos\DS Assignment 1\Debug\DS Assignment 1.exe

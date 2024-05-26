@@ -1,0 +1,4 @@
+bread(15)
+juice(15)
+cheese(12)
+milk(9)

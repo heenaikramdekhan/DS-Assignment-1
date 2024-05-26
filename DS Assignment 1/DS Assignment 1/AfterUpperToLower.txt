@@ -1,0 +1,6 @@
+bread,cheese,egg,juice
+bread,cheese,juice
+bread,milk-,yougrt
+bread,+juice@,milk
+cheese,juice,milk1
+bread,egg,cheese,juice

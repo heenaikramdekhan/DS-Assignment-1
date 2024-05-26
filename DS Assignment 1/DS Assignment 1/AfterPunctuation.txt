@@ -1,0 +1,6 @@
+Bread,Cheese,Egg,Juice
+Bread,Cheese,Juice
+Bread,Milk,Yougrt
+Bread,Juice,Milk
+Cheese,Juice,Milk
+Bread,Egg,Cheese,Juice

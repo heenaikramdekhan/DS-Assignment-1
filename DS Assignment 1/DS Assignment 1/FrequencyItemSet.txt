@@ -1,0 +1,4 @@
+bread(5)
+juice(5)
+cheese(4)
+milk(3)
